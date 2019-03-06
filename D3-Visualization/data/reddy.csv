@@ -1,0 +1,15 @@
+grant_title,id,organization,total_amount,group
+Respiratory,1,Dr. reddy's,87,#00EF9F
+Urology,2,Dr. reddy's,74,#00895B
+Central Nervous System,3,Dr. reddy's,98,#573F99
+Cardiovascular,4,Dr. reddy's,11,#13C4A3
+Anti-Infective,5,Dr. reddy's,69,#008BD1
+Immuno-suppressive ,6,Dr. reddy's,9,#5299D3
+Cardiovascular,7,Dr. reddy's,3,#D1EF00
+Nutraceutical,8,Dr. reddy's,33,#C2DFE3
+Pain Management,9,Dr. reddy's,57,#2D204E
+Gastro-Intestinal,10,Dr. reddy's,21,#D1EF00
+Diabetology,11,Dr. reddy's,30,#34FFBB
+Hormone,12,Dr. reddy's,64,#7CD3FF
+Oncology,13,Dr. reddy's,14,#9DB4C0
+Nutraceutical,14,Dr. reddy's,77,#5299D3

@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Data visualization per therapy</title>
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bubble_chart.css">
+</head>
+<body>
+  <div class="container">
+    <div id="toolbar">
+      <a href="index.html" id="all" class="button">Therapy Categories</a>
+      <a href="#" id="year" class="button active">Research Data</a>
+      <a href="corr.html" id="corr" class="button">Correlation</a>
+    </div>
+    <div id="vis"></div>
+  </div>
+
+  <script src="lib/d3.js"></script>
+  <script src="src/tooltip.js"></script>
+  <script src="src/therapy.js"></script>
+</body>
+</html>
