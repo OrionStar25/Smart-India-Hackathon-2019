@@ -11,3 +11,5 @@ To impelement intelligent natural language search for all R&D data of Dr. Reddy'
 - [Saicharan Reddy](https://github.com/mrsaicharan1)
 - [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
 - [Vinit Mankar](https://github.com/vin-man)
+
+#### Won the 1'st prize at Smart India Hackathon'19 !
