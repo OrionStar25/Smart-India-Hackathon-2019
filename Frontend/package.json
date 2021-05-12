@@ -8,7 +8,7 @@
     "@material-ui/icons": "^3.0.1",
     "@trendmicro/react-sidenav": "^0.4.5",
     "axios": "^0.18.0",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "d3": "^5.9.1",
     "firebase": "^5.4.0",
     "fuse.js": "^3.3.0",
