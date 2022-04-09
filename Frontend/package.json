@@ -15,7 +15,7 @@
     "fuzzyset.js": "0.0.7",
     "jquery": "^3.5.0",
     "keyword-extractor": "0.0.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "natural-brain": "^0.3.2",
     "react": "^16.8.3",
     "react-bootstrap": "^0.32.1",
